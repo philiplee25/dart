@@ -9,8 +9,6 @@ void main() {
   numStr = '33333' + 'abc';
   numStr = '3333 $numStr';
 
-  final int i = 10;
-
   int y = multiply3(1);
   print(y); // 3
   print(multiply3(2)); // 6
